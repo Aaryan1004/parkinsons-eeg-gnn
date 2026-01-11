@@ -22,8 +22,6 @@ This project uses **signal processing, functional connectivity, and deep learnin
 ---
 
 ## 🧠 Project Structure
-## 🧠 Project Structure
-
 ```
 parkinsons-eeg-gnn/
 │
