@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Large data folders (do NOT upload)
+data/
+features/
+processed/
+models/
+models_mcp/
+models_iowa/
+models_combined/
+
+# Model weights
+*.pth
+*.pt
+
+# OS junk
+.DS_Store
+Thumbs.db
